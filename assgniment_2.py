@@ -1,3 +1,4 @@
+#Q1 
 team = int(input("Number of team members"))
 months= int(input("Number of months"))
 monthly_salary = float(input("Monthly salary "))
@@ -15,8 +16,9 @@ print(f" Salary Cost: {salary_cost:,.2f} Subtotal{subtotal:,.2f} VAT (14%): {vat
 
 
 
+######################################################################
 
-
+#Q2
 message = str(input("Customer message:"))
 hours = int(input("Hours open"))
 
